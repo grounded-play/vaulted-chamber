@@ -1,3 +1,5 @@
+![Auto Assign](https://github.com/grounded-play/vaulted-chamber/actions/workflows/auto-assign.yml/badge.svg)
+
 # Vaulted Chamber
 **'etch with light, refine with your mind'**
 
